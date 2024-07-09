@@ -6,7 +6,7 @@ import navio.util
 
 navio.util.check_apm()
 
-PWM_OUTPUT = 0
+PWM_OUTPUT = 1
 SERVO_MIN = 1.2 #ms
 SERVO_MAX = 1.7 #ms
 
